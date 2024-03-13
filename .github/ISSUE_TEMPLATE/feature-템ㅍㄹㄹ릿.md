@@ -2,7 +2,7 @@
 name: Feature 템ㅍㄹㄹ릿
 about: Suggest an idea for this project
 title: ''
-labels: ''
+labels: feature
 assignees: ''
 
 ---
